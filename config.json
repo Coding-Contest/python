@@ -1293,6 +1293,21 @@
         "difficulty": 3
       },
       {
+        "slug": "test-add-exercise",
+        "name": "Test Add Exercise",
+        "uuid": "93fbc7cf-3a7e-4450-ad22-e30129c36bb9",
+        "practices": ["loops"],
+        "prerequisites": [
+            "basics",
+            "lists",
+            "list-methods",
+            "loops",
+            "strings",
+            "string-methods"
+        ],
+        "difficulty": 3
+      },
+      {
         "slug": "connect",
         "name": "Connect",
         "uuid": "5a038ad4-65c7-4c99-9916-faebb4f39b79",
