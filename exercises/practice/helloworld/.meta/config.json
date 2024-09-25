@@ -1,0 +1,15 @@
+{
+  "authors": ["hienphan"],
+  "files": {
+    "solution": [
+      "helloworld.py"
+    ],
+    "test": [
+      "helloworld_test.py"
+    ],
+    "example": [
+      ".meta/example.py"
+    ]
+  },
+  "blurb": ""
+}
