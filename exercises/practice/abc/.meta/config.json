@@ -1,0 +1,17 @@
+{
+  "authors": [
+    "hienphan"
+  ],
+  "files": {
+    "solution": [
+      "abc.py"
+    ],
+    "test": [
+      "abc_test.py"
+    ],
+    "example": [
+      ".meta/example.py"
+    ]
+  },
+  "blurb": ""
+}

@@ -2667,6 +2667,14 @@
         "practices": [],
         "prerequisites": [],
         "difficulty": 1
+      },
+      {
+        "slug": "abc",
+        "name": "abc",
+        "uuid": "d63f79f2-95ee-4283-9983-812fcd65a38f",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 1
       }
     ],
     "foregone": [
