@@ -2675,6 +2675,14 @@
         "practices": [],
         "prerequisites": [],
         "difficulty": 1
+      },
+      {
+        "slug": "tunglee",
+        "name": "tunglee",
+        "uuid": "f0bdf5bd-6105-4ae1-bd84-8840484c9fbb",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 1
       }
     ],
     "foregone": [

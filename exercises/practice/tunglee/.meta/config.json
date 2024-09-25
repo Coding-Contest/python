@@ -1,0 +1,17 @@
+{
+  "authors": [
+    "HIENPHAN"
+  ],
+  "files": {
+    "solution": [
+      "tunglee.py"
+    ],
+    "test": [
+      "tunglee_test.py"
+    ],
+    "example": [
+      ".meta/example.py"
+    ]
+  },
+  "blurb": ""
+}
